@@ -74,7 +74,7 @@ export const searchUser = async (req, res, next) => {
   const [allOtherMembers, myRequests] = await Promise.all([
     User.find({
       _id: { $nin: myChatsMembers },
-      name: { $regex: name, $options: 'i' }, // anish - can be searched by sh and i is case insensitive
+      name: { $regex: name, $options: 'a' }, // sarthak - can be searched by rt and a is case insensitive
     }),
     Request.find({ sender: req.userId }),
   ]);

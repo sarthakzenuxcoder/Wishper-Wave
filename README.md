@@ -50,7 +50,7 @@ Both should be installed and make sure mongodb is running.
 ### Installation
 
 ```shell
-git clone https://github.com/An525ish/Whisper-wave.git
+git clone https://github.com/sarthakzenuxcoder/Wishper-Wave.git
 cd Whisper-wave
 ```
 

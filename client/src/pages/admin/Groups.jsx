@@ -27,7 +27,7 @@ const Groups = () => {
                 <p>{'10'}</p>
             </>,
             <>
-                <p>{'Anish'}</p>
+                <p>{'sarthak'}</p>
             </>,
             <>
                 <p className=''> {'2'}</p>

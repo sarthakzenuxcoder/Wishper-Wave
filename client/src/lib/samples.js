@@ -105,7 +105,7 @@ export const notifications = [
 
 export const user = {
   _id: 'fdsfasfs',
-  name: 'Anish',
+  name: 'Sarthak',
 };
 
 export const sampleMessage = [
@@ -136,7 +136,7 @@ export const sampleMessage = [
     _id: 'fdsfasfs3fsdkfd',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'Sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
@@ -163,7 +163,7 @@ export const sampleMessage = [
     _id: 'fdsfasfsfsdfdsf',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
@@ -195,7 +195,7 @@ export const sampleMessage = [
     _id: 'fdsfasfs3fsdkfd',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
@@ -227,7 +227,7 @@ export const sampleMessage = [
     _id: 'fdsfasfsfsdfdsf',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
@@ -259,7 +259,7 @@ export const sampleMessage = [
     _id: 'fdsfasfs3fsdkfd',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
@@ -291,7 +291,7 @@ export const sampleMessage = [
     _id: 'fdsfasfsfsdfdsf',
     sender: {
       _id: 'fdsfasfs',
-      name: 'Anish',
+      name: 'sarthak',
     },
     chat: 'chatld',
     createdAt: '2024-12-31T18:29:59.999Z',
